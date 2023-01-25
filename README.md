@@ -25,4 +25,4 @@ The purpose of this analysis is to create a binary classifier that is capable of
 
 # Summary
 
-It seems that the greatest impact on the accuracy score was by keeping the NAME variable within the data set. It increased the accuracy score from 54% to 75%. 
+It seems that the greatest impact on the accuracy score was by keeping the NAME variable within the data set. It increased the accuracy score from 71% to 75%. 
